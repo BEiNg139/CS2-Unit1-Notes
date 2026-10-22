@@ -120,5 +120,17 @@ public class Main {
       int sum = grade1 + grade2 + grade3;
       gradeAvarage = (double) sum / 3;
       System.out.println(gradeAvarage);
+
+      /////////////////////////////////// 1.9 notes
+      //methods  -  basically just functions made outside the main
+
+      /* public static void methodname(){
+         //exicutes task in here
+      } */
+
+      /////////////////////////////////// 1.10 notes
+      //
+
+
    }
 }
