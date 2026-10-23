@@ -129,7 +129,22 @@ public class Main {
       } */
 
       /////////////////////////////////// 1.10 notes
-      //
+      // Static Methods
+      /*
+      static methods apply to everything and only exist once per instance and don't change between instances
+
+      main is an example of a static method
+
+      Initilization:
+      public static returnType methodName(parameters)
+
+      return types
+      - void - returns nothing from the method
+      - non-void - gives simthing back as a result of running the method
+
+      methods are designed to take arguments as inputs and return outputs
+      
+      */
 
 
    }
