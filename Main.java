@@ -146,6 +146,18 @@ public class Main {
       
       */
 
+      ///////////// 1.11
+      //math operators
+      /* absolute value
+      int Math.abs(int x);
+      double Math.abs(double x);
+      */
+     int z = Math.abs(-45);
+     System.out.println(z);
+
+     /* exponents
+     double varName = Math.pow(base, exponents);
+     */
 
    }
 }
