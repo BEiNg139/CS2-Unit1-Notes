@@ -159,5 +159,20 @@ public class Main {
      double varName = Math.pow(base, exponents);
      */
 
+     ////////////////////////////////////    Impotant Fomula To Know
+     // (int)(Math.random()*range) + min
+     /*
+     range of posible values:
+     (max - min + 1)
+     */
+
+     int otherRand = (int)(Math.random()*100)+1;
+     System.out.println(otherRand);
+
+     ///////////////////////////
+     /// class test
+     
+     Car firstCar = new Miata();
+     System.out.ptintln(firstCar.year);
    }
 }
