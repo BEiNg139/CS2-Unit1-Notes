@@ -174,5 +174,27 @@ public class Main {
      
      Car firstCar = new Miata();
      System.out.ptintln(firstCar.year);
+
+
+     /////////////////////////////// 1.14 Notes
+     //Methods: Behaviors and actions an object can preform
+     /*
+     Class Method: Another name for static methods, they do not change the atributes of an object
+     Instance Method: They can change and acsess the atributes of the object
+
+     A method siganture is basically initilizing it and defining perameters
+
+     Calling a method:
+     objectName.methodName();
+     If you are using the method in the class its created, you don't need an object name
+
+     Argumnents:
+     go in the parenthsis, and give more context or spisific instructions
+     They create a input output function
+
+     If you want to return something from a method there are two ways
+     1. adding a return statment to your method, and printing it
+     2. adding a print statment in you method
+     */
    }
 }
